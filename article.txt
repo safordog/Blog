@@ -1,0 +1,7 @@
+An array is a systematic arrangement of similar objects, usually in rows and columns.~Criss~Javaman~Tue Sep 18 20:51:20 EEST 2018~64651217
+I hate you all!~Bjarne~BjarneStroustrup~Tue Sep 18 20:48:28 EEST 2018~77156424
+Where am I?
+~Denzel~DenzelWashington~Tue Sep 18 20:44:13 EEST 2018~30677051
+In programming, a variable is a value that can change, depending on conditions or on information passed to the program. Typically, a program consists of instruction s that tell the computer what to do and data that the program uses when it is running.~John~John~Tue Sep 18 20:37:23 EEST 2018~85346390
+Java is my favorite programming language!~Martin~scope~Tue Sep 18 20:34:53 EEST 2018~96480482
+So, what about coffee???~Criss~DenzelWashington~Tue Sep 18 20:53:34 EEST 2018~11653337
